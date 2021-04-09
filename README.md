@@ -36,7 +36,9 @@ $ node socket
 ### among them :
 #### admin
 `http://localhost:3000/?admin=yes` => note `for create question`
-![admin](screenshots/admin.png "admin")
+
+![admin](screenshot/admin.png "admin")
 #### visitor
 `http://localhost:3000` => note `for answer the question that have been made`
-![visitor](screenshots/visitor.png "visitor")
+
+![visitor](screenshot/visitor.png "visitor")
